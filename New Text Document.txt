@@ -1,0 +1,10 @@
+
+
+
+font-family: "Open Sans", sans-serif;
+    font-size: 84px;
+    font-weight: 700;
+    color: #FAFAFE;
+    width: 992px;
+    text-align: center;
+    text-transform: capitalize;
